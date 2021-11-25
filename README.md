@@ -1,4 +1,4 @@
-[![Adlisting](https://s3.envato.com/files/366747542/Preview%20Images.jpg)](https://codecanyon.net/item/hasaal-hospital-management-system-spa-single-page-application/32397840)
+[![Adlisting](https://s3.envato.com/files/366747542/Preview%20Images.jpg)](https://codecanyon.net/item/adlisting-laravel-classified-ads/34961310)
 
 # Adlisting - Laravel Classified Ads Marketplace
 
@@ -8,4 +8,4 @@ Adlisting is a classified ads marketplace. With tons of feature, you can view, p
 - Price plan for premium users
 - Beautiful User Interface
 
-[View Demo](https://codecanyon.net/item/hasaal-hospital-management-system-spa-single-page-application/32397840)
+[View Demo](https://codecanyon.net/item/adlisting-laravel-classified-ads/34961310)
